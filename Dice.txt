@@ -47,3 +47,15 @@ child: Image.asset('images/dice$right.png'),
 onPressed: () {
 changeFace();
 }, ), ), ], ), ), ); }}
+
+
+
+/*
+
+
+flutter:
+  uses-material-design: true
+  assets:
+    - images/
+    
+*/
